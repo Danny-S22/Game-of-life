@@ -30,7 +30,7 @@ int main()
     printf("\t\t+           GAME OF LIFE           +\n");
     printf("\t\t------------------------------------\n");
 
-    printf("\n\t\tStudent Name : Danny Esteban Sanchez Oyagata\n\t\tStudent Number : 200027576\n\n");
+    printf("\n\t\tStudent Name : Danny\n");
    
 
     while (option != 69){
